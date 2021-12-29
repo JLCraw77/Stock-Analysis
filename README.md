@@ -1,4 +1,4 @@
-# VBA - Challenge
+# VBA - Challenge - Refactoring Code
 ## Overview and Purpose of the analysis
 ### Overview - Modify existing code to be more efficient for our client to process many years of data.
 ### Purpose - Refactoring the Analysis allowed the computing process to be accelerated.  The code was more efficient way to process many lines of data provided
