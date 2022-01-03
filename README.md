@@ -13,7 +13,7 @@
 -- https://github.com/JLCraw77/Stock-Analysis/blob/main/VBA_Challenge_2017-Revised.png
 
 2018 Data Set Summary
--- https://github.com/JLCraw77/Stock-Analysis/blob/main/VBA_Challenge_2018.png
+-- https://github.com/JLCraw77/Stock-Analysis/blob/main/VBA_Challenge_2018-Revised.png
 
 ---
 
