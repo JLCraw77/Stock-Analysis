@@ -10,7 +10,7 @@
 - Displaying the tabled information for all of the tickers in a concise summary of the data for a quick overview and analysis of the information.
 
 2017 Data Set Summary
--- https://github.com/JLCraw77/Stock-Analysis/blob/main/VBA_Challenge_2017.png 
+-- https://github.com/JLCraw77/Stock-Analysis/blob/main/VBA_Challenge_2017-Revised.png
 
 2018 Data Set Summary
 -- https://github.com/JLCraw77/Stock-Analysis/blob/main/VBA_Challenge_2018.png
