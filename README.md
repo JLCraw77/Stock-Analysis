@@ -7,7 +7,7 @@
 - Providing the pop-up to input the year desired allowed for many different years of data to process using the same VBA code.
     https://github.com/JLCraw77/Stock-Analysis/blob/main/Year%20input%20pop-up.png
 
-- Displaying the tabled information for all of the tickers in a concise summary of the data for a quick overview and analysis of the information.
+- Displaying the data in a tabled format for all of the tickers in a concise summary along with the processing time to allow for a quick overview and analysis of the information.
 
 2017 Data Set Summary
 -- https://github.com/JLCraw77/Stock-Analysis/blob/main/VBA_Challenge_2017-Revised.png
